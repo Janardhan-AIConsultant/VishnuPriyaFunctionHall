@@ -1,0 +1,40 @@
+# Node / Vite / Vitest
+node_modules/
+build/
+dist/
+coverage/
+.vite/
+*.tsbuildinfo
+
+# Python / FastAPI / Pytest
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+*.db
+*.sqlite*
+
+# Environment & Local Secrets (NEVER commit secrets)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*service-account*.json
+*credentials*.json
+
+# Tooling, IDEs & OS
+.gmp_cache/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*

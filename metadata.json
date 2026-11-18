@@ -1,0 +1,8 @@
+{
+  "name": "Vishnu Priya Function Hall",
+  "description": "Luxury celebration venue website, booking workflow, Grok AI concierge, and management platform for Vishnu Priya Function Hall in Eluru, Andhra Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
